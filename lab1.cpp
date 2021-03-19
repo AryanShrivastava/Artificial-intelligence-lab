@@ -1,7 +1,5 @@
 #include <iostream> 
-
 using namespace std; 
-
 int minRats(int n) 
 { 
 	return ceil(log2(n)); 
